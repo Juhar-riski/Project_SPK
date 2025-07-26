@@ -16,6 +16,6 @@
 - **Pindahkan Folder SPK_PM_WP ke path berikut : C:\xampp\htdocs**
 - **Aktifkan MySql & Apache di Xampp**
 - **Create new database dengan nama "spk_pm_wp" pada MySql dan import database yang tersedia pada folder database**
-- **Step terakhir yaitu buka Web browser anda dan ketik "http://localhost//spk_pm_wp" pada kolom pencarian**
+- **Step terakhir yaitu buka Web browser anda dan ketik "http://localhost//SPK_PM_WP" pada kolom pencarian**
 - **Login menggunakan username : admin dan password : admin atau bisa menggunakan username : user dan password : user**
 - **Selamat menikmati program yang telah tersedia**
