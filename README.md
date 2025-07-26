@@ -1,4 +1,4 @@
-# Program SPK PM WP Kelompok H1
+# Program SPK PM WP Kelompok He1
 
 ## Anggota
 
