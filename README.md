@@ -8,6 +8,7 @@
 ## Teknologi Yang Digunakan
 
 - **PHP**
+- **CSS**
 - **JavaScript**
 - **MySql**
 
